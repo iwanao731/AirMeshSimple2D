@@ -1,0 +1,5 @@
+<Parameters>
+	<damping>0.98</damping>
+	<iteration>10</iteration>
+	<time_step>0.27</time_step>
+</Parameters>
